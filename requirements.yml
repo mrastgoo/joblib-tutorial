@@ -96,5 +96,5 @@ dependencies:
   - zeromq=4.3.1=h33f27b4_3
   - zipp=0.6.0=py_0
   - zlib=1.2.11=h62dcd97_3
-
+prefix: c:\Autredata\Anaconda3\envs\test
 
